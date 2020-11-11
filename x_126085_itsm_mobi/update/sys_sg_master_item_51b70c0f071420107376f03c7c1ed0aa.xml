@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order>-1</condition_order>
+        <datasource_table>sys_user</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="cap_UserDetails">1db70c0f071420107376f03c7c1ed0a8</embedded_screen>
+        <item_view display_value="User List Screen Item View">9db70c0f071420107376f03c7c1ed0a7</item_view>
+        <name>User master_item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:55</sys_created_on>
+        <sys_id>51b70c0f071420107376f03c7c1ed0aa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User master_item</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_master_item_51b70c0f071420107376f03c7c1ed0aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:56:12</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_master_item>
+</record_update>

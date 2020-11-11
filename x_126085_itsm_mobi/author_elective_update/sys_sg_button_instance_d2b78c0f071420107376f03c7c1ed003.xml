@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (A10 Load Balancer)">92b74c0f071420107376f03c7c1ed0eb</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (A10 Load Balancer)</name>
+        <order/>
+        <parent>16b74c0f071420107376f03c7c1ed0e1</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:59</sys_created_on>
+        <sys_id>d2b78c0f071420107376f03c7c1ed003</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (A10 Load Balancer)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d2b78c0f071420107376f03c7c1ed003</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:51:59</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d2b78c0f071420107376f03c7c1ed003"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</application>
+        <comments/>
+        <file_path/>
+        <instance_id>625ab291dbd3df40536ad5b0cf9619b6</instance_id>
+        <instance_name>dev64648</instance_name>
+        <name>sys_sg_button_instance_d2b78c0f071420107376f03c7c1ed003</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (A10 Load Balancer)">92b74c0f071420107376f03c7c1ed0eb</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (A10 Load Balancer)</name><order/><parent>16b74c0f071420107376f03c7c1ed0e1</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-09 21:51:59</sys_created_on><sys_id>d2b78c0f071420107376f03c7c1ed003</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New (A10 Load Balancer)</sys_name><sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package><sys_policy/><sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope><sys_update_name>sys_sg_button_instance_d2b78c0f071420107376f03c7c1ed003</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-09 21:51:59</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=d2b78c0f071420107376f03c7c1ed003"/></record_update>]]></payload>
+        <payload_hash>-1005165796</payload_hash>
+        <record_name>New (A10 Load Balancer)</record_name>
+        <reverted_from/>
+        <source>6d73444b071420107376f03c7c1ed075</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:52:37</sys_created_on>
+        <sys_id>7bd74c4f071420107376f03c7c1ed0a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175aeff24650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:52:37</sys_updated_on>
+        <type>Function instance</type>
+        <u_link/>
+        <update_guid>ffd74c4ff914201013d450714be223a0</update_guid>
+        <update_guid_history>ffd74c4ff914201013d450714be223a0:-1005165796</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:54:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>3130ed66d1a546bca687b5737fb00f84</sys_id>
+        <sys_metadata>d2b78c0f071420107376f03c7c1ed003</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (A10 Load Balancer)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_scope_delete display_value="">a8312a801a1f484e924960b7e7d2a644</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_d2b78c0f071420107376f03c7c1ed003</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_d2b78c0f071420107376f03c7c1ed003">7bd74c4f071420107376f03c7c1ed0a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:54:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

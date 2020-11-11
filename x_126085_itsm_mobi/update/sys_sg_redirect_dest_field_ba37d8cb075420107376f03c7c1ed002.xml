@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="cJmp2User - Assigned To">74615487075420107376f03c7c1ed0a5</button>
+        <button_table>incident</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="cuipar_User_SysId">b686d44b075420107376f03c7c1ed00a</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 22:59:44</sys_created_on>
+        <sys_id>ba37d8cb075420107376f03c7c1ed002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b686d44b075420107376f03c7c1ed00a</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_ba37d8cb075420107376f03c7c1ed002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 22:59:44</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

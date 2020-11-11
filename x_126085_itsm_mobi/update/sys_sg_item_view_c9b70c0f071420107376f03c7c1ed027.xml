@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="cdi_Incident">45b78c0b071420107376f03c7c1ed07f</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"studio_template_field_id":"E1","CornerRadius":2,"CellId":"state","TextAlignment":"Center","MaxLines":1,"Text":"","Font":{"Weight":"semibold","Size":13},"BackgroundColor":"#f1f1f1","Width":100,"Height":21,"TextColor":"#293e40","Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E2","CellId":"number","TextAlignment":"Right","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#7d8a8c","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"studio_template_field_id":"E3","CellId":"short_description","TextAlignment":"Left","MaxLines":2,"Text":"","Font":{"Weight":"regular","Size":18},"TextColor":"#293e40","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"studio_template_field_id":"E4","TextAlignment":"Left","MaxLines":1,"Text":"${opened_by}","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E5","Scaling":"Fill","CornerRadius":11,"CellId":"opened_by.avatar","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"studio_template_field_id":"E4","CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"studio_template_field_id":"E6","TextAlignment":"Left","MaxLines":1,"Text":"${priority}","Font":{"Weight":"regular","Size":13},"studio_template_is_label":true,"TextColor":"#7d8a8c","Margin":{"Right":8},"Type":"Text"},{"studio_template_field_id":"E6","CellId":"priority","TextAlignment":"Left","MaxLines":1,"Text":"","Font":{"Weight":"regular","Size":13},"TextColor":"#293e40","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Incident Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:53</sys_created_on>
+        <sys_id>c9b70c0f071420107376f03c7c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Detail Screen Item View</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_item_view_c9b70c0f071420107376f03c7c1ed027</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:51:53</sys_updated_on>
+        <table>incident</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9b70c0f071420107376f03c7c1ed027"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Group)">82b74c0f071420107376f03c7c1ed0b0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Group)</name>
+        <order>20</order>
+        <parent>4eb74c0f071420107376f03c7c1ed099</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:58</sys_created_on>
+        <sys_id>1eb74c0f071420107376f03c7c1ed0bb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>New (Group)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1eb74c0f071420107376f03c7c1ed0bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-10 15:47:16</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1eb74c0f071420107376f03c7c1ed0bb"/>
+</record_update>

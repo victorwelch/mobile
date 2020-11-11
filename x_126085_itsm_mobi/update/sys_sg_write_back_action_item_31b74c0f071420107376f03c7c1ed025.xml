@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (User)</name>
+        <query_condition table="sys_user">sys_idSTARTSWITH{{User sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{User sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:57</sys_created_on>
+        <sys_id>31b74c0f071420107376f03c7c1ed025</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (User)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_31b74c0f071420107376f03c7c1ed025</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:51:57</sys_updated_on>
+        <table>sys_user</table>
+        <template>accumulated_roles={{User accumulated_roles}}^active={{User active}}^avatar={{User avatar}}^average_daily_fte={{User average_daily_fte}}^building={{User building}}^calendar_integration={{User calendar_integration}}^city={{User city}}^company={{User company}}^cost_center={{User cost_center}}^country={{User country}}^date_format={{User date_format}}^default_perspective={{User default_perspective}}^department={{User department}}^email={{User email}}^employee_number={{User employee_number}}^enable_multifactor_authn={{User enable_multifactor_authn}}^failed_attempts={{User failed_attempts}}^first_name={{User first_name}}^gender={{User gender}}^home_phone={{User home_phone}}^internal_integration_user={{User internal_integration_user}}^introduction={{User introduction}}^last_login={{User last_login}}^last_login_time={{User last_login_time}}^last_name={{User last_name}}^ldap_server={{User ldap_server}}^location={{User location}}^locked_out={{User locked_out}}^manager={{User manager}}^middle_name={{User middle_name}}^mobile_phone={{User mobile_phone}}^name={{User name}}^notification={{User notification}}^password_needs_reset={{User password_needs_reset}}^phone={{User phone}}^photo={{User photo}}^preferred_language={{User preferred_language}}^roles={{User roles}}^schedule={{User schedule}}^source={{User source}}^sso_source={{User sso_source}}^state={{User state}}^street={{User street}}^time_format={{User time_format}}^time_sheet_policy={{User time_sheet_policy}}^time_zone={{User time_zone}}^title={{User title}}^u_account_type={{User u_account_type}}^u_active_wartime_or_campaign_b={{User u_active_wartime_or_campaign_b}}^u_applicant_profile={{User u_applicant_profile}}^u_armed_forces_service_medal_v={{User u_armed_forces_service_medal_v}}^u_communicate_via_email={{User u_communicate_via_email}}^u_disability_response={{User u_disability_response}}^u_disabled_veteran={{User u_disabled_veteran}}^u_eid={{User u_eid}}^u_employee_department={{User u_employee_department}}^u_employee_department_2={{User u_employee_department_2}}^u_employee_department_3={{User u_employee_department_3}}^u_employee_name={{User u_employee_name}}^u_employee_name_2={{User u_employee_name_2}}^u_employee_name_3={{User u_employee_name_3}}^u_highest_education_level={{User u_highest_education_level}}^u_hispanic_or_latino={{User u_hispanic_or_latino}}^u_other_names={{User u_other_names}}^u_racial_category={{User u_racial_category}}^u_recently_separated_veteran={{User u_recently_separated_veteran}}^u_referral_source={{User u_referral_source}}^u_referral_source__detail_={{User u_referral_source__detail_}}^u_relationship_to_applicant={{User u_relationship_to_applicant}}^u_relationship_to_applicant_2={{User u_relationship_to_applicant_2}}^u_relationship_to_applicant_3={{User u_relationship_to_applicant_3}}^u_service_end={{User u_service_end}}^u_service_start={{User u_service_start}}^user_name={{User user_name}}^user_password={{User user_password}}^vip={{User vip}}^web_service_access_only={{User web_service_access_only}}^zip={{User zip}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=31b74c0f071420107376f03c7c1ed025"/>
+</record_update>

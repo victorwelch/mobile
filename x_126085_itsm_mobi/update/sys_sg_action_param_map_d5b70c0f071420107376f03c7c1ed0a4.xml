@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Request)">99b70c0f071420107376f03c7c1ed091</button>
+        <item_parameter display_value="Request company">99b70c0f071420107376f03c7c1ed08f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:55</sys_created_on>
+        <sys_id>d5b70c0f071420107376f03c7c1ed0a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>99b70c0f071420107376f03c7c1ed08f</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d5b70c0f071420107376f03c7c1ed0a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:51:55</sys_updated_on>
+        <ui_parameter display_value="Company">99b70c0f071420107376f03c7c1ed094</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

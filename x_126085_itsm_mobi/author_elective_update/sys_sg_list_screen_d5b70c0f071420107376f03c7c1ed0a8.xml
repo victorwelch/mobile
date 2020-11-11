@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description> User</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">41b78c0b071420107376f03c7c1ed07b</icon>
+        <item_view/>
+        <name>cap_UserDetails</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:55</sys_created_on>
+        <sys_id>d5b70c0f071420107376f03c7c1ed0a8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>cap_UserDetails</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_list_screen_d5b70c0f071420107376f03c7c1ed0a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 23:06:23</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=d5b70c0f071420107376f03c7c1ed0a8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</application>
+        <comments/>
+        <file_path/>
+        <instance_id>625ab291dbd3df40536ad5b0cf9619b6</instance_id>
+        <instance_name>dev64648</instance_name>
+        <name>sys_sg_list_screen_d5b70c0f071420107376f03c7c1ed0a8</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description> User</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">41b78c0b071420107376f03c7c1ed07b</icon><item_view/><name>cap_UserDetails</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-09 21:51:55</sys_created_on><sys_id>d5b70c0f071420107376f03c7c1ed0a8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>cap_UserDetails</sys_name><sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package><sys_policy/><sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope><sys_update_name>sys_sg_list_screen_d5b70c0f071420107376f03c7c1ed0a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-09 23:06:23</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=d5b70c0f071420107376f03c7c1ed0a8"/></record_update>]]></payload>
+        <payload_hash>-638136284</payload_hash>
+        <record_name>cap_UserDetails</record_name>
+        <reverted_from/>
+        <source>6d73444b071420107376f03c7c1ed075</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 23:06:23</sys_created_on>
+        <sys_id>dcc8dc0f075420107376f03c7c1ed0e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175af42ac2b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 23:06:23</sys_updated_on>
+        <type>List screen</type>
+        <u_link/>
+        <update_guid>10c8dc0fad54201048dcae86eaac85e4</update_guid>
+        <update_guid_history>10c8dc0fad54201048dcae86eaac85e4:-638136284,3c3b0c037e5420108eb742440230d361:1178769090,00b84c8f67142010bde5c6f3238fae2d:856474592,51d7484f3e1420109fdb4e0aa1e02b97:177976492</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 23:06:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>20ba8f9523bb4d0496018c5a578bb941</sys_id>
+        <sys_metadata>d5b70c0f071420107376f03c7c1ed0a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cap_UserDetails</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_scope_delete display_value="">a8312a801a1f484e924960b7e7d2a644</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_d5b70c0f071420107376f03c7c1ed0a8</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_d5b70c0f071420107376f03c7c1ed0a8">dcc8dc0f075420107376f03c7c1ed0e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 23:06:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>Delete (A10 Load Balancer)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:51:59</sys_created_on>
+        <sys_id>9ab74c0f071420107376f03c7c1ed0e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (A10 Load Balancer)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_9ab74c0f071420107376f03c7c1ed0e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:51:59</sys_updated_on>
+        <table>cmdb_ci_lb_a10</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=9ab74c0f071420107376f03c7c1ed0e3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</application>
+        <comments/>
+        <file_path/>
+        <instance_id>625ab291dbd3df40536ad5b0cf9619b6</instance_id>
+        <instance_name>dev64648</instance_name>
+        <name>sys_sg_write_back_action_item_9ab74c0f071420107376f03c7c1ed0e3</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description/><execution_script/><name>Delete (A10 Load Balancer)</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-09 21:51:59</sys_created_on><sys_id>9ab74c0f071420107376f03c7c1ed0e3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete (A10 Load Balancer)</sys_name><sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package><sys_policy/><sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope><sys_update_name>sys_sg_write_back_action_item_9ab74c0f071420107376f03c7c1ed0e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-09 21:51:59</sys_updated_on><table>cmdb_ci_lb_a10</table><template/><type>delete</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=9ab74c0f071420107376f03c7c1ed0e3"/></record_update>]]></payload>
+        <payload_hash>1791234809</payload_hash>
+        <record_name>Delete (A10 Load Balancer)</record_name>
+        <reverted_from/>
+        <source>6d73444b071420107376f03c7c1ed075</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 21:52:35</sys_created_on>
+        <sys_id>5fd70c4f071420107376f03c7c1ed0ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175aeff1b510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 21:52:35</sys_updated_on>
+        <type>Action item</type>
+        <u_link/>
+        <update_guid>d3d70c4f891420100da2f6e53fd9d1ed</update_guid>
+        <update_guid_history>d3d70c4f891420100da2f6e53fd9d1ed:1791234809</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 22:02:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>11462402c35943538d7a2cf0fb89f2f1</sys_id>
+        <sys_metadata>9ab74c0f071420107376f03c7c1ed0e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (A10 Load Balancer)</sys_name>
+        <sys_package display_value="ITSM Mobile Common" source="x_126085_itsm_mobi">a973444b071420107376f03c7c1ed073</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile Common">a973444b071420107376f03c7c1ed073</sys_scope>
+        <sys_scope_delete display_value="">a8312a801a1f484e924960b7e7d2a644</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_9ab74c0f071420107376f03c7c1ed0e3</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_9ab74c0f071420107376f03c7c1ed0e3">5fd70c4f071420107376f03c7c1ed0ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 22:02:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
